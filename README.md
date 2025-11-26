@@ -48,8 +48,8 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_subnet_private_1a"></a> [subnet\_private\_1a](#output\_subnet\_private\_1a) | Id da Private Subnet 1a |
-| <a name="output_subnet_private_1b"></a> [subnet\_private\_1b](#output\_subnet\_private\_1b) | Id da Private Subnet 1b |
-| <a name="output_subnet_public_1a"></a> [subnet\_public\_1a](#output\_subnet\_public\_1a) | Id da Public Subnet 1a |
-| <a name="output_subnet_public_1b"></a> [subnet\_public\_1b](#output\_subnet\_public\_1b) | Id da Public Subnet 1b |
-| <a name="output_vpc_id"></a> [vpc\_id](#output\_vpc\_id) | ID da VPC |
+| <a name="output_subnet_private_1a"></a> [subnet\_private\_1a](#output\_subnet\_private\_1a) | subnet-08657af497270c583 |
+| <a name="output_subnet_private_1b"></a> [subnet\_private\_1b](#output\_subnet\_private\_1b) | subnet-0a8e6a6a7c0b6fe98 |
+| <a name="output_subnet_public_1a"></a> [subnet\_public\_1a](#output\_subnet\_public\_1a) | subnet-0d91501cca82fba5b |
+| <a name="output_subnet_public_1b"></a> [subnet\_public\_1b](#output\_subnet\_public\_1b) | subnet-09e34edc0c30c2c83 |
+| <a name="output_vpc_id"></a> [vpc\_id](#output\_vpc\_id) | vpc-08295ae9a761d7255 |
